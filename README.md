@@ -23,3 +23,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+- 📫 How to reach me **nurbilqisanastasya@gmail.comas**
+
+- ⚡ Fun fact **asbun**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/nurblqsanstsya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurblqsanstsya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/twenrill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="twenrill" height="30" width="40" /></a>
+</p>
